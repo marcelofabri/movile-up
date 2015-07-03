@@ -1,0 +1,10 @@
+- Handoff
+- Share em outras telas
+- Tratamento de erros
+- Pull to refresh
+- Tratamento de loading
+- Carregar mais séries (paginação)
+- Header na listagem de episódios
+- Tratamento de *empty states*
+- Sincronizar favoritos com iCloud
+- App Universal
