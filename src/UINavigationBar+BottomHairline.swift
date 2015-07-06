@@ -1,3 +1,5 @@
+import UIKit
+
 extension UINavigationBar {
     
     func hideBottomHairline() {
