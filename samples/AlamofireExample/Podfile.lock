@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (1.2.3)
+  - Box (1.2.2)
+  - Result (0.4.4):
+    - Box (~> 1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Result
+
+SPEC CHECKSUMS:
+  Alamofire: 5550bf0b575ed1a4bf9be572f9463e1015cc169e
+  Box: a92e8aa4c099e6bc0733829665caf9e668ef53b8
+  Result: b44f6bc8762bbffaf2c5df58f2c7d12c3496ced8
+
+COCOAPODS: 0.37.2
